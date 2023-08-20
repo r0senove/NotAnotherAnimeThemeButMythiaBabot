@@ -20,8 +20,9 @@
 :root {
   /*
     Theme Background
-  */
   --theme-background-image: url(https://wallpapercave.com/wp/wp6913355.jpg);
+  */
+  --theme-background-image: url(https://yt3.googleusercontent.com/9xGQpFXwxHlAdDHtwXj2s8ACKmY5zdICpltI2QdIGQtNSI8OVBIo_1xjon9b-G4knDWdHK03=w2120-fcrop64=1,00000000ffffffff-k-c0xffffffff-no-nd-rj);
 
   /*
     Main Theme Color
@@ -36,7 +37,7 @@
   /*
     Home Icon Image
   */
-  --home-icon-image: url(https://yt3.googleusercontent.com/wZwPuY50ABf7T2dDNhayZ827yJHjNWAm6YEshfM-PMLOSR-lVwGcsuoT8yzRZQxlRQYbthcT3w=s1707-c-k-c0x00ffffff-no-rj);
+  --home-icon-image: url(https://yt3.googleusercontent.com/wZwPuY50ABf7T2dDNhayZ827yJHjNWAm6YEshfM-PMLOSR-lVwGcsuoT8yzRZQxlRQYbthcT3w=s2102-c-k-c0x00ffffff-no-rj);
 
   /*
     Change your friends icon image position
