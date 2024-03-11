@@ -96,4 +96,4 @@ This theme is **NOT** minimal mode compatible.
 ![NotAnotherAnimeThemeQCSL](https://i.imgur.com/EwgpmhY.jpg)
 
 ### Edited Content for M4ple Version
-![EditedContent](https://cdn.discordapp.com/attachments/924569109583261697/1142815306176266320/1692538796163859.png)
+![EditedContent](https://cdn.discordapp.com/attachments/924569109583261697/1216848004527423518/1710189571508.png?ex=6601e104&is=65ef6c04&hm=5bdd7ddf91f3dd79c6395e2f3175eb7542992be2c932661e1566be65bd84786e&)
